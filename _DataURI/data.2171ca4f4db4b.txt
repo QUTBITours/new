@@ -1,1 +1,0 @@
-chrome-extension://cpgamigjcbffkaiciiepndmonbfdimbb/lib/jquery-confirm.min.js

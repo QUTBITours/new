@@ -1,1 +1,0 @@
-chrome-extension://ickdpignpmjcahkjfbmfljhiglmcmchn/anchor-1.42.min.js
